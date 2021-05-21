@@ -1,4 +1,4 @@
-# Naieve Bayes for Categorical Dataset
+# Naive Bayes for Categorical Dataset
 ## Mushroom Classification:
 ![](https://i.ytimg.com/vi/eho8xH3E6mE/sddefault.jpg)
 
