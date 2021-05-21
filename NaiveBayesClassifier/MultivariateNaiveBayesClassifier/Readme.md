@@ -1,6 +1,8 @@
 # Naive Bayes for Categorical Dataset
-## Mushroom Classification:
 ![](https://i.ytimg.com/vi/eho8xH3E6mE/sddefault.jpg)
+## Mushroom Classification:
+![](https://miro.medium.com/max/1000/1*lI4Lo0ltvaKop4rPKCLSbQ.jpeg)
+
 
 
 In this project we use Naive Baeyes Classifier to solve this bi-class classification problem. In this problem I have written the code from scratch for 
