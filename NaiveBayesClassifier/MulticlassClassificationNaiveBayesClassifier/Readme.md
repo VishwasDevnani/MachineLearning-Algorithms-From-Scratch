@@ -2,8 +2,8 @@
 
 ## Iris Flower Classification:
 ![](https://www.oreilly.com/library/view/python-artificial-intelligence/9781789539462/assets/462dc4fa-fd62-4539-8599-ac80a441382c.png)
-# Multi Class Naive Baeyes:
 
+![](https://miro.medium.com/max/6190/1*39U1Ln3tSdFqsfQy6ndxOA.png)
 
 
 
