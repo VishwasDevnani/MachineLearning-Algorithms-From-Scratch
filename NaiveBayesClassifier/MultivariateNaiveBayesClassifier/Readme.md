@@ -1,4 +1,4 @@
-# Naieve Baeyes for Categorical Dataset
+# Naieve Bayes for Categorical Dataset
 ## Mushroom Classification:
 ![](https://i.ytimg.com/vi/eho8xH3E6mE/sddefault.jpg)
 
@@ -19,9 +19,9 @@ The **Liklihood Probablities** are calclated from the `Gaussian Normal` distribu
 
 ![](https://i.stack.imgur.com/EOyQI.png)
 
-## Laplace Smoothening :
+## Lidstone Smoothening :
 It is a smoothing technique that helps tackle the problem of zero probability in the Naïve Bayes machine learning algorithm.In terms of Machine Learning the formula for Laplace smoothening,
 ![](https://miro.medium.com/max/700/1*1Fe0yGNqyNa9_EihzSZ4DQ.png)
 - C_k : Total number of observations
 - K : Value of unique features present in the dataset
-- alpha : It is usually set to 1
+- alpha : It is usually set to 1, when alpha is 1, it is called **Laplase Smoothening**
